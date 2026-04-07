@@ -1,7 +1,6 @@
 package restaurantApi.entity;
 
 import jakarta.persistence.*;
-import jakarta.annotation.*;
 import lombok.*;
 
 import java.math.BigDecimal;

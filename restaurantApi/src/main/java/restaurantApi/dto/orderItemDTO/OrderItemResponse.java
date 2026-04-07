@@ -1,5 +1,4 @@
 package restaurantApi.dto.orderItemDTO;
-
 import java.math.BigDecimal;
 
 public record OrderItemResponse(

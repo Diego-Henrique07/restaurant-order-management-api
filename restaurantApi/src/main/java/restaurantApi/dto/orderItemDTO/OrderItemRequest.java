@@ -1,5 +1,4 @@
 package restaurantApi.dto.orderItemDTO;
-import restaurantApi.entity.Order;
 
 import jakarta.validation.constraints.*;
 

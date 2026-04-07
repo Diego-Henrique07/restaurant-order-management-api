@@ -1,5 +1,4 @@
 package restaurantApi.dto.orderDTO;
-import restaurantApi.entity.OrderItem;
 import restaurantApi.entity.enums.OrderStatus;
 
 import java.math.BigDecimal;

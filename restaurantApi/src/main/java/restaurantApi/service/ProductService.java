@@ -1,11 +1,7 @@
 package restaurantApi.service;
 import restaurantApi.entity.Product;
 import restaurantApi.repository.ProductRepository;
-
-
 import restaurantApi.dto.productDTO.*;
-
-
 import java.util.List;
 
 import org.springframework.stereotype.Service;
